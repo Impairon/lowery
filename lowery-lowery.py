@@ -25,7 +25,7 @@ Tray icon (Windows taskbar):
   left-click         → show / hide panel
   right-click        → Show/Hide | Quit
 
-  # Heavily Vibe Coded
+  # Vibe Coded
   
 """
 
